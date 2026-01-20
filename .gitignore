@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.env/
+
+# Data
+data/
+datasets/
+*.zip
+
+# Models
+checkpoints/
+weights/
+*.pt
+*.pth
+
+# OS
+.DS_Store
